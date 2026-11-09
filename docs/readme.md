@@ -5,3 +5,5 @@ Mobile application for organizing events.
 ## Features
 - Create events
 - Manage participants
+
+- <!-- Remote update for async fetch demonstration -->
