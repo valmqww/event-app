@@ -8,3 +8,6 @@ Mobile application for organizing events.
 
 - <!-- Remote update for async fetch demonstration -->
 - Asynchronous fetch and pull completed successfully.
+
+## Recovery
+Alternative path: revert to restore previous state.
